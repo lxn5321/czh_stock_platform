@@ -1,0 +1,3 @@
+/Users/caozongheng/myplace/gitBase/czh_stock_platform/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/caozongheng/myplace/gitBase/czh_stock_platform/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/caozongheng/myplace/gitBase/czh_stock_platform/cmake-build-debug/CMakeFiles/czh_stock_platform.dir

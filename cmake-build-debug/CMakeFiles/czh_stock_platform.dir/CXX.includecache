@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/caozongheng/myplace/gitBase/czh_stock_platform/CompanyRanker.cpp
+CompanyRanker.h
+/Users/caozongheng/myplace/gitBase/czh_stock_platform/CompanyRanker.h
+
+/Users/caozongheng/myplace/gitBase/czh_stock_platform/CompanyRanker.h
+Investments.h
+/Users/caozongheng/myplace/gitBase/czh_stock_platform/Investments.h
+
+/Users/caozongheng/myplace/gitBase/czh_stock_platform/Investments.h
+string
+-
+CompanyRanker.h
+/Users/caozongheng/myplace/gitBase/czh_stock_platform/CompanyRanker.h
+
